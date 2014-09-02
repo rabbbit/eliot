@@ -2,7 +2,7 @@
 Benchmark of message serialization.
 
 The goal here is to mostly focus on performance of serialization, in a vaguely
-realistic manner. That is, mesages are logged in context of a message with a
+realistic manner. That is, messages are logged in context of a message with a
 small number of fields.
 """
 

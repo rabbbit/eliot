@@ -39,7 +39,7 @@ Features:
 * Designed for JSON output, usable by Logstash/Elasticsearch.
 * Supports CPython 2.7, 3.3 and PyPy.
 
-Eliot is released by `HybridCluster`_ under the Apache 2.0 License.
+Eliot is released by `ClusterHQ`_ under the Apache 2.0 License.
 
 To install::
 
@@ -52,10 +52,10 @@ Documentation can be found on `Read The Docs`_.
 Bugs and feature requests should be filed at the project `Github page`_.
 
 .. _Read the Docs: https://eliot.readthedocs.org/
-.. _Github page: https://github.com/hybridcluster/eliot
+.. _Github page: https://github.com/ClusterHQ/eliot
 .. _PyPI: https://pypi.python.org/pypi/eliot
-.. _HybridCluster: https://hybridcluster.github.io
+.. _ClusterHQ: https://ClusterHQ.github.io
 
-.. image:: https://travis-ci.org/hybridcluster/eliot.png?branch=master
-           :target: http://travis-ci.org/hybridcluster/eliot
+.. image:: https://travis-ci.org/ClusterHQ/eliot.png?branch=master
+           :target: http://travis-ci.org/ClusterHQ/eliot
            :alt: Build Status
